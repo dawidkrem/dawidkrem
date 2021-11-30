@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dawidkrem
 - 👀 I’m interested in JS programming.
 - 🌱 I’m currently learning Ract js.
-- 💞️ I’m looking to collaborate on building a web application based React js.
+- 💞️ I’m looking to collaborate on building a web application based on React js.
 - 📫 Contact: dawidkrem@gmail.com
 
 <!---
